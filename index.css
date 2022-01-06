@@ -12,11 +12,15 @@ h1{
 .mission{
     color: rgb(248, 88, 29);
 }
+.top-left-order{
+    border-left: rgb(248, 88, 29) ;
+}
 .link-button{
     text-decoration: none;
+    margin-top: 5px;
     background-color: rgb(241, 79, 20);
     color: white;
-    padding: 10spx;
+    padding: 10px;
     border-radius: 5px;
 }
 section{
@@ -45,8 +49,10 @@ small{
     font-size: 50px;
 }
 .my-goal-bg-color{
+    margin-left: 20px;
     padding: 5%;
-    width: 33%;
+    height: 30%;
+    width: 30%;
 
 }
 #focused{
@@ -54,20 +60,43 @@ small{
     padding: 5px;
     margin:10px;
     border-radius: 10px;
-
+    text-align: justify;
 }
+#focused img{
+    width: 90px;
+    height: 100px;
+}
+
 #on-target{
     background-color: rgb(207, 227, 245);
     padding: 5px;
     margin:10px;
     border-radius: 10px;
+    text-align: justify;
+}
+#on-target img{
+    width: 90px;
+    height: 100px;
 }
 #goal-bar{
     background-color: rgb(226, 206, 245);
     padding: 5px;
     margin:10px;
     border-radius: 10px;
+    text-align: justify;
+}
+#goal-bar img{
+    width: 90px;
+    height: 100px;
 }
 .Develop-without-limit{
     font-size: 50px;
+}
+.footer-center{
+    text-align: center;
+}
+.footer-bg-color{
+    background-image: linear-gradient(to right,gray,black);
+    border-radius: 5px;
+    margin: 0;
 }
