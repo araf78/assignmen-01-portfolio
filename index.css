@@ -13,6 +13,7 @@ h1{
     color: rgb(248, 88, 29);
 }
 .top-left-order{
+    border-left: brown;
     border-left: rgb(248, 88, 29) ;
 }
 .link-button{
@@ -39,6 +40,7 @@ small{
     width: 350px;
     height: 350px;
     border-radius: 50%;
+    text-align: justify;
 }
 .color-2022{
     color: rgb(230, 91, 11);
@@ -91,8 +93,10 @@ small{
 }
 .Develop-without-limit{
     font-size: 50px;
+    text-align: justify;
 }
 .footer-center{
+    color: blanchedalmond;
     text-align: center;
 }
 .footer-bg-color{
