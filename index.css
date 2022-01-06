@@ -16,7 +16,7 @@ h1{
     text-decoration: none;
     background-color: rgb(241, 79, 20);
     color: white;
-    padding: 5px;
+    padding: 10spx;
     border-radius: 5px;
 }
 section{
@@ -53,19 +53,21 @@ small{
     background-color: rgb(233, 245, 189);
     padding: 5px;
     margin:10px;
-
+    border-radius: 10px;
 
 }
 #on-target{
     background-color: rgb(207, 227, 245);
     padding: 5px;
     margin:10px;
+    border-radius: 10px;
 }
 #goal-bar{
     background-color: rgb(226, 206, 245);
     padding: 5px;
     margin:10px;
+    border-radius: 10px;
 }
-.my-goal-in-2022{
-
+.Develop-without-limit{
+    font-size: 50px;
 }
